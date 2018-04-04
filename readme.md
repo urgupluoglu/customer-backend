@@ -10,4 +10,4 @@ sudo -u postgres createdb demodb
 sudo -u postgres psql
 # alter user dbuser with encrypted password 'B@7)Fz3q:)/X5_R';
 
-I used Intellij IDEA to develop this project, so you'll find a .idea folder in the project you may or may not want to use.
+Intellij IDEA is used to develop this project.
